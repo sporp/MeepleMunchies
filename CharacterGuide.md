@@ -19,12 +19,12 @@ There are 3 types of Meeple for you to control:
   - Performs a straight line shot in 1 of the 6 directions away from your position.  Damaging all Meeples (friend or foe) in that line
 
 ## Healer Meeple:
--Health: 3
--Movement: 1 (+2 if you enter water for the first time this turn)
--Damage: 1
--Attack Range: 1
--Heal: 1
--Heal Range: 2
-
--Special Abilities:
-+1 melee damage to a Meeple in Water, shoves into water deal 2 damage
+- Health: 3
+- Movement: 1 (+2 if you enter water for the first time this turn)
+- Damage: 1
+- Attack Range: 1
+- Heal: 1
+- Heal Range: 2
+- Special Abilities:
+    - +1 melee damage to a Meeple in Water
+    - SHOVE into water deal 2 damage
