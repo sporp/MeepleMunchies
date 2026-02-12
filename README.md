@@ -1,9 +1,9 @@
 # Meeple MashUp General Guide
 
--Clockwise Turn Order
+Clockwise Turn Order
 
 ## ROUND START
-1) Place Cards in order that you want your pieces to go
+1) Place Cards in order that you want your pieces to go, from left to right
 2) Every player rolls their initiative die. The player with the highest result goes first. If any players tie for highest, those players reroll until somebody wins.
 3) 1 by 1, each player flips their leftmost face-down card. That player takes a turn with that piece, then passes turn.
 4) Repeat until all players have flipped all cards & taken their turn
