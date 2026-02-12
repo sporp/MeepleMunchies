@@ -24,7 +24,7 @@ There are 3 types of Meeple for you to control:
 
 ## Healer Meeple:
 - Health: 3
-- Movement: 1 (+2 if you enter water)
+- Movement: 1
 - Attack:
     - Damage: 1
     - Range: 1
@@ -32,5 +32,6 @@ There are 3 types of Meeple for you to control:
     - Health: +1
     - Range: 2
 - Special Abilities:
-    - +1 melee damage to a Meeple in Water
+    - +2 Movement this turn if you enter water
+    - +1 melee damage to a Meeple in water
     - +1 damage to SHOVE into water
