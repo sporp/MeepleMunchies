@@ -15,7 +15,7 @@ There are 3 types of Meeple for you to control:
 - Health: 4
 - Movement: 2
 - Attack:
-    - Damage: 1 (+1 to enemies in water)
+    - Damage: 1
     - Attack Range: Infinite
 - Special Abilities:
   - Performs a straight line shot in 1 of the 6 directions away from your position.  Damaging all Meeples (friend or foe) in that line
