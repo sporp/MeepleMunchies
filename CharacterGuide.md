@@ -7,10 +7,10 @@ There are 3 types of Meeple for you to control:
 - Health: 5
 - Movement: 3
 - Attack:
-      - Damage: 2
-      - Range: 1
+    - Damage: 2
+    - Range: 1
 - Special Abilities:
-    -Performs Spin Attack, Damaging all Meeples (friend or foe) in a 1 tile radius
+  - Performs Spin Attack, Damaging all Meeples (friend or foe) in a 1 tile radius
 
 ## Range Meeple:
 - Health: 4
