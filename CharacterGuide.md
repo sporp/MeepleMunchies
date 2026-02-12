@@ -3,7 +3,6 @@
 There are 3 types of Meeple for you to control:
 
 ## Melee Meeple:
-- Stats:
 - Health: 5
 - Movement: 3
 - Attack:
