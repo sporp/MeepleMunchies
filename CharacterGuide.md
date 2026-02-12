@@ -18,7 +18,7 @@ Attack Range: Infinite
 
 Performs a straight line shot in 1 of the 6 directions away from your position.  Damaging all Meeples (friend or foe) in that line
 
-## ealer Meeple:
+## Healer Meeple:
 Health: 3
 Movement: 1 (+2 if you enter water for the first time this turn)
 Damage: 1
