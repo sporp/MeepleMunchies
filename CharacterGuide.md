@@ -29,8 +29,8 @@ There are 3 types of Meeple for you to control:
     - Damage: 1
     - Range: 1
 - Heal:
-      - +1 Health
-      - Range: 2
+    - Health: +1
+    - Range: 2
 - Special Abilities:
-      - +1 melee damage to a Meeple in Water
-      - +1 damage to SHOVE into water
+    - +1 melee damage to a Meeple in Water
+    - +1 damage to SHOVE into water
