@@ -19,6 +19,7 @@ There are 3 types of Meeple for you to control:
     - Attack Range: Infinite
 - Special Abilities:
   - Performs a straight line shot in 1 of the 6 directions away from your position.  Damaging all Meeples (friend or foe) in that line
+  - +1 damage to Meeple in water
 
 ## Healer Meeple:
 - Health: 3
@@ -29,4 +30,4 @@ There are 3 types of Meeple for you to control:
 - Heal Range: 2
 - Special Abilities:
     - +1 melee damage to a Meeple in Water
-    - SHOVE into water deal 2 damage
+    - +1 damage to SHOVE into water
