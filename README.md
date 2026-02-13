@@ -10,7 +10,6 @@ Clockwise Turn Order
 5) If only 1 player has pieces remaining in action, that player wins. Otherwise return to ROUND START
 
 ## TURN
-
 A turn happens as follows:
   1) Flip your leftmost face-down card
   2) Move your Meeple UP TO the number of moves it has
@@ -18,6 +17,10 @@ A turn happens as follows:
   4) Pass turn
 
 _After an ACTION you cannot MOVE. You don't have to MOVE, you don't have to perform an ACTION
+
+## MOVE
+- You may move your Meeple across adjacent tiles UP TO the number of moves it has
+- You cannot move through a space that has another piece on it
 
 ## ACTIONS
 Your meeple can perform ONE of the following actions per turn:
