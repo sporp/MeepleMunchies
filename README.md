@@ -1,4 +1,4 @@
-# Meeple MashUp General Guide
+# Meeple Munchies General Guide
 
 Clockwise Turn Order
 
